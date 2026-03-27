@@ -1,59 +1,66 @@
 <div align="center">
 
-<br><br>
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=32&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=SINKRONIZZE)](https://git.io/typing-svg)
 
-# S I N K R O N I Z Z E
+### Designing in sync. Building with purpose.
 
-*Digital craftsmanship. Engineered precision.*
+![Status](https://img.shields.io/badge/Team-Active-0A7EA4?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-1F9D8B?style=for-the-badge)
+![Values](https://img.shields.io/badge/Values-Collaboration%20%7C%20Quality-334155?style=for-the-badge)
 
-<br><br>
 
-We are a collective of engineers and designers dedicated to building robust, scalable, and sophisticated software solutions. At Sinkronizze, we believe in the absolute harmony of form and function.
+---
 
-<br>
+## About Us
 
-[ Website ](#) &nbsp; &middot; &nbsp; [ Contact ](mailto:hello@sinkronizze.com) &nbsp; &middot; &nbsp; [ LinkedIn ](#)
+Sinkronizze is a student software team that transforms ideas into purposeful digital products.  
+We combine architecture, design, frontend, and backend execution into one synchronized workflow.
 
-<br><br>
+## Mission
+
+To build meaningful, secure, and user-centered software while growing together as disciplined and reliable developers.
+
+## Vision
+
+To be recognized as a high-impact student team known for delivering practical, high-quality solutions for real communities.
+
+---
+
+## What Defines Sinkronizze
+
+| Principle | What It Means in Practice |
+| :--- | :--- |
+| Collaboration | We solve problems together, not in silos |
+| Accountability | We own our tasks and ship on time |
+| Clarity | We communicate early, clearly, and respectfully |
+| Quality | We prioritize maintainability, not just speed |
+| Growth | Every project is a chance to learn and improve |
 
 </div>
 
 ---
 
-<br>
+## Team Structure
 
-### The Philosophy
-
-> *To synchronize diverse disciplines into a singular, seamless experience.*
-
-We approach every project with a strict commitment to architectural integrity and elegant design. Our work is defined by clean code, intuitive interfaces, and a relentless pursuit of quality. We do not just write software; we engineer digital reality.
-
-<br>
-
-### Core Capabilities
-
-**Architecture & Engineering** Building resilient back-end systems, scalable cloud infrastructure, and optimized databases.
-
-**Interface & Experience** Crafting intuitive, highly performant, and accessible user interfaces with modern web technologies.
-
-**Research & Strategy** Leveraging data-driven insights and emerging technologies to define precise product direction.
-
-<br>
-
-### Selected Works
-
-| Index | Project | Overview | Status |
-| :---: | :--- | :--- | :--- |
-| **I** | **Project Alpha** | A brief description of the architecture and its primary impact. | Active |
-| **II** | **Project Beta** | A brief description of the architecture and its primary impact. | In Development |
-| **III** | **Project Gamma** | A brief description of the architecture and its primary impact. | Planned |
-
-<br><br>
+- System Architect / Project Lead
+- UI/UX Designer
+- Frontend Developer 1
+- Frontend Developer 2
+- Backend Developer
 
 ---
 
-<div align="center">
-  <br>
-  <p><i>Est. 2026 &nbsp; &middot; &nbsp; Sinkronizze</i></p>
-  <br>
-</div>
+## What We Build
+
+- Web and mobile-first platforms
+- API-driven systems and role-based workflows
+- Event and community management applications
+- Secure authentication and authorization systems
+- Data-informed dashboards and analytics interfaces
+
+---
+
+## How We Work
+
+```text
+Discover -> Design -> Build -> Test -> Deploy -> Improve
